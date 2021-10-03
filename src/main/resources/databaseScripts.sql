@@ -1,4 +1,8 @@
--- Create Table
+-- Create Database
+
+Create Database liv2train ;
+
+-- Create Tables
 
 Create table trainingcenter (
     id INT PRIMARY KEY,
